@@ -1,0 +1,35 @@
+//
+// Created by heuby on 22/11/18.
+//
+
+#include <iostream>
+#include "Problem4.h"
+
+using namespace std;
+
+void Problem4::LargestPrime() {
+    int limit = 0;
+    cout << "Upper limit:";
+    cin >> limit;
+    for (int i = limit; i > 1 ; i--) {
+        if(IsPrime(i)){
+            cout << "Largest prime: " << i << endl;
+            return;
+        }
+    }
+}
+
+bool Problem4::IsPrime(int num) {
+    if(num <= 3){
+        return num > 1;
+    }else if (num % 2 == 0 || num % 3 == 0){
+        return false;
+    }else{
+        for (int i = 5; i * i < num ; i +=6) {
+            if(num % i == 0 || num % (i +2) == 0){
+                return false;
+            }
+        }
+        return true;
+    }
+}
