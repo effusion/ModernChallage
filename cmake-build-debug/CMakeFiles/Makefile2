@@ -59,10 +59,10 @@ RM = /home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/heuby/CLionProjects/ModernChallange
+CMAKE_SOURCE_DIR = /home/heuby/Repos/ModernChallage
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/heuby/CLionProjects/ModernChallange/cmake-build-debug
+CMAKE_BINARY_DIR = /home/heuby/Repos/ModernChallage/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/ModernChallange.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/heuby/CLionProjects/ModernChallange/cmake-build-debug
 CMakeFiles/ModernChallange.dir/all:
 	$(MAKE) -f CMakeFiles/ModernChallange.dir/build.make CMakeFiles/ModernChallange.dir/depend
 	$(MAKE) -f CMakeFiles/ModernChallange.dir/build.make CMakeFiles/ModernChallange.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10 "Built target ModernChallange"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10 "Built target ModernChallange"
 .PHONY : CMakeFiles/ModernChallange.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/ModernChallange.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ModernChallange.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles 10
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ModernChallange.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/ModernChallange.dir/rule
 
 # Convenience name for target.

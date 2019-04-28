@@ -43,10 +43,10 @@ RM = /home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/heuby/CLionProjects/ModernChallange
+CMAKE_SOURCE_DIR = /home/heuby/Repos/ModernChallage
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/heuby/CLionProjects/ModernChallange/cmake-build-debug
+CMAKE_BINARY_DIR = /home/heuby/Repos/ModernChallage/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ModernChallange.dir/depend.make
@@ -59,120 +59,120 @@ include CMakeFiles/ModernChallange.dir/flags.make
 
 CMakeFiles/ModernChallange.dir/src/main.cpp.o: CMakeFiles/ModernChallange.dir/flags.make
 CMakeFiles/ModernChallange.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ModernChallange.dir/src/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/main.cpp.o -c /home/heuby/CLionProjects/ModernChallange/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ModernChallange.dir/src/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/main.cpp.o -c /home/heuby/Repos/ModernChallage/src/main.cpp
 
 CMakeFiles/ModernChallange.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernChallange.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/CLionProjects/ModernChallange/src/main.cpp > CMakeFiles/ModernChallange.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/Repos/ModernChallage/src/main.cpp > CMakeFiles/ModernChallange.dir/src/main.cpp.i
 
 CMakeFiles/ModernChallange.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernChallange.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/CLionProjects/ModernChallange/src/main.cpp -o CMakeFiles/ModernChallange.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/Repos/ModernChallage/src/main.cpp -o CMakeFiles/ModernChallange.dir/src/main.cpp.s
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.o: CMakeFiles/ModernChallange.dir/flags.make
 CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.o: ../src/ch1/Problem1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.o -c /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.o -c /home/heuby/Repos/ModernChallage/src/ch1/Problem1.cpp
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem1.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/Repos/ModernChallage/src/ch1/Problem1.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.i
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem1.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/Repos/ModernChallage/src/ch1/Problem1.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.s
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.o: CMakeFiles/ModernChallange.dir/flags.make
 CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.o: ../src/ch1/Problem2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.o -c /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.o -c /home/heuby/Repos/ModernChallage/src/ch1/Problem2.cpp
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem2.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/Repos/ModernChallage/src/ch1/Problem2.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.i
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem2.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/Repos/ModernChallage/src/ch1/Problem2.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.s
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.o: CMakeFiles/ModernChallange.dir/flags.make
 CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.o: ../src/ch1/Problem3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.o -c /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.o -c /home/heuby/Repos/ModernChallage/src/ch1/Problem3.cpp
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem3.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/Repos/ModernChallage/src/ch1/Problem3.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.i
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem3.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/Repos/ModernChallage/src/ch1/Problem3.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.s
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.o: CMakeFiles/ModernChallange.dir/flags.make
 CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.o: ../src/ch1/Problem4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.o -c /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.o -c /home/heuby/Repos/ModernChallage/src/ch1/Problem4.cpp
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem4.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/Repos/ModernChallage/src/ch1/Problem4.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.i
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem4.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/Repos/ModernChallage/src/ch1/Problem4.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.s
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.o: CMakeFiles/ModernChallange.dir/flags.make
 CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.o: ../src/ch1/Problem5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.o -c /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.o -c /home/heuby/Repos/ModernChallage/src/ch1/Problem5.cpp
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem5.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/Repos/ModernChallage/src/ch1/Problem5.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.i
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem5.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/Repos/ModernChallage/src/ch1/Problem5.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.s
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.o: CMakeFiles/ModernChallange.dir/flags.make
 CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.o: ../src/ch1/Problem6.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.o -c /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem6.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.o -c /home/heuby/Repos/ModernChallage/src/ch1/Problem6.cpp
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem6.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/Repos/ModernChallage/src/ch1/Problem6.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.i
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem6.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/Repos/ModernChallage/src/ch1/Problem6.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.s
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.o: CMakeFiles/ModernChallange.dir/flags.make
 CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.o: ../src/ch1/Problem7.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.o -c /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem7.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.o -c /home/heuby/Repos/ModernChallage/src/ch1/Problem7.cpp
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem7.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/Repos/ModernChallage/src/ch1/Problem7.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.i
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem7.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/Repos/ModernChallage/src/ch1/Problem7.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.s
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.o: CMakeFiles/ModernChallange.dir/flags.make
 CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.o: ../src/ch1/Problem8.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.o -c /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem8.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.o -c /home/heuby/Repos/ModernChallage/src/ch1/Problem8.cpp
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem8.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/heuby/Repos/ModernChallage/src/ch1/Problem8.cpp > CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.i
 
 CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/CLionProjects/ModernChallange/src/ch1/Problem8.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/heuby/Repos/ModernChallage/src/ch1/Problem8.cpp -o CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.s
 
 # Object files for target ModernChallange
 ModernChallange_OBJECTS = \
@@ -200,7 +200,7 @@ ModernChallange: CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.o
 ModernChallange: CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.o
 ModernChallange: CMakeFiles/ModernChallange.dir/build.make
 ModernChallange: CMakeFiles/ModernChallange.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable ModernChallange"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable ModernChallange"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ModernChallange.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -213,6 +213,6 @@ CMakeFiles/ModernChallange.dir/clean:
 .PHONY : CMakeFiles/ModernChallange.dir/clean
 
 CMakeFiles/ModernChallange.dir/depend:
-	cd /home/heuby/CLionProjects/ModernChallange/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/heuby/CLionProjects/ModernChallange /home/heuby/CLionProjects/ModernChallange /home/heuby/CLionProjects/ModernChallange/cmake-build-debug /home/heuby/CLionProjects/ModernChallange/cmake-build-debug /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/ModernChallange.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/heuby/Repos/ModernChallage/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/heuby/Repos/ModernChallage /home/heuby/Repos/ModernChallage /home/heuby/Repos/ModernChallage/cmake-build-debug /home/heuby/Repos/ModernChallage/cmake-build-debug /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/ModernChallange.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ModernChallange.dir/depend
 

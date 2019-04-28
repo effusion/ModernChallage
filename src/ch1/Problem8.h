@@ -10,7 +10,7 @@ class Problem8 {
 public:
     void printArmstrongNumbers();
 private:
-    getLenghtOfInt(int);
+    int getLenghtOfInt(int);
 };
 
 

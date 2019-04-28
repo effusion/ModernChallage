@@ -1,3 +1,3 @@
-/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/ModernChallange.dir
-/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/ModernChallange.dir
+/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/edit_cache.dir

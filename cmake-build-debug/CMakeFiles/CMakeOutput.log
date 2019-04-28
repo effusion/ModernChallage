@@ -1,4 +1,4 @@
-The system is: Linux - 4.19.2-300.fc29.x86_64 - x86_64
+The system is: Linux - 5.0.3-200.fc29.x86_64 - x86_64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler: /usr/bin/cc 
 Build flags: 
@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_55115/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_55115.dir/build.make CMakeFiles/cmTC_55115.dir/build
-gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_55115.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_55115.dir/testCCompiler.c.o   -c /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_55115
-/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_55115.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_55115.dir/testCCompiler.c.o  -o cmTC_55115 
-gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_55059/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_55059.dir/build.make CMakeFiles/cmTC_55059.dir/build
+gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_55059.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_55059.dir/testCCompiler.c.o   -c /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_55059
+/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_55059.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_55059.dir/testCCompiler.c.o  -o cmTC_55059 
+gmake[1]: Leaving directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_e2883/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_e2883.dir/build.make CMakeFiles/cmTC_e2883.dir/build
-gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_e2883.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_e2883.dir/CMakeCCompilerABI.c.o   -c /home/heuby/Programs/Clion2018/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_e2883
-/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e2883.dir/link.txt --verbose=1
-/usr/bin/cc     -v CMakeFiles/cmTC_e2883.dir/CMakeCCompilerABI.c.o  -o cmTC_e2883 
+Run Build Command:"/usr/bin/gmake" "cmTC_28203/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_28203.dir/build.make CMakeFiles/cmTC_28203.dir/build
+gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_28203.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_28203.dir/CMakeCCompilerABI.c.o   -c /home/heuby/Programs/Clion2018/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_28203
+/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_28203.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTC_28203.dir/CMakeCCompilerABI.c.o  -o cmTC_28203 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper
@@ -58,27 +58,27 @@ OFFLOAD_TARGET_DEFAULT=1
 Target: x86_64-redhat-linux
 Configured with: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,objc,obj-c++,ada,go,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --enable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux
 Thread model: posix
-gcc version 8.2.1 20181105 (Red Hat 8.2.1-5) (GCC) 
+gcc version 8.3.1 20190223 (Red Hat 8.3.1-2) (GCC) 
 COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e2883' '-mtune=generic' '-march=x86-64'
- /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccxcWVrt.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_e2883 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_e2883.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e2883' '-mtune=generic' '-march=x86-64'
-gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_28203' '-mtune=generic' '-march=x86-64'
+ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccAb0Vu9.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_28203 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_28203.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_28203' '-mtune=generic' '-march=x86-64'
+gmake[1]: Leaving directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_e2883/fast"]
-  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_e2883.dir/build.make CMakeFiles/cmTC_e2883.dir/build]
-  ignore line: [gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_e2883.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_e2883.dir/CMakeCCompilerABI.c.o   -c /home/heuby/Programs/Clion2018/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_e2883]
-  ignore line: [/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e2883.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_e2883.dir/CMakeCCompilerABI.c.o  -o cmTC_e2883 ]
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_28203/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_28203.dir/build.make CMakeFiles/cmTC_28203.dir/build]
+  ignore line: [gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_28203.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_28203.dir/CMakeCCompilerABI.c.o   -c /home/heuby/Programs/Clion2018/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_28203]
+  ignore line: [/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_28203.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_28203.dir/CMakeCCompilerABI.c.o  -o cmTC_28203 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper]
@@ -87,16 +87,16 @@ Parsed C implicit link information from above output:
   ignore line: [Target: x86_64-redhat-linux]
   ignore line: [Configured with: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,objc,obj-c++,ada,go,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --enable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux]
   ignore line: [Thread model: posix]
-  ignore line: [gcc version 8.2.1 20181105 (Red Hat 8.2.1-5) (GCC) ]
+  ignore line: [gcc version 8.3.1 20190223 (Red Hat 8.3.1-2) (GCC) ]
   ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e2883' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccxcWVrt.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_e2883 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_e2883.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_28203' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccAb0Vu9.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_28203 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_28203.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o]
     arg [/usr/libexec/gcc/x86_64-redhat-linux/8/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccxcWVrt.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccAb0Vu9.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -111,7 +111,7 @@ Parsed C implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_e2883] ==> ignore
+    arg [cmTC_28203] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o] ==> ignore
@@ -120,7 +120,7 @@ Parsed C implicit link information from above output:
     arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/usr/lib/gcc/x86_64-redhat-linux/8/../../..] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/8/../../..]
-    arg [CMakeFiles/cmTC_e2883.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_28203.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -145,17 +145,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_7d7c1/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_7d7c1.dir/build.make CMakeFiles/cmTC_7d7c1.dir/build
-gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_7d7c1.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_7d7c1.dir/feature_tests.c.o   -c /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_7d7c1
-/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7d7c1.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_7d7c1.dir/feature_tests.c.o  -o cmTC_7d7c1 
-gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_df7fc/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_df7fc.dir/build.make CMakeFiles/cmTC_df7fc.dir/build
+gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_df7fc.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_df7fc.dir/feature_tests.c.o   -c /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_df7fc
+/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_df7fc.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_df7fc.dir/feature_tests.c.o  -o cmTC_df7fc 
+gmake[1]: Leaving directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -165,17 +165,17 @@ gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-bui
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_cd36b/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_cd36b.dir/build.make CMakeFiles/cmTC_cd36b.dir/build
-gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_cd36b.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_cd36b.dir/feature_tests.c.o   -c /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_cd36b
-/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cd36b.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_cd36b.dir/feature_tests.c.o  -o cmTC_cd36b 
-gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_2146a/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_2146a.dir/build.make CMakeFiles/cmTC_2146a.dir/build
+gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2146a.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_2146a.dir/feature_tests.c.o   -c /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_2146a
+/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2146a.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_2146a.dir/feature_tests.c.o  -o cmTC_2146a 
+gmake[1]: Leaving directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -185,17 +185,17 @@ gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-bui
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_ad315/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_ad315.dir/build.make CMakeFiles/cmTC_ad315.dir/build
-gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_ad315.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_ad315.dir/feature_tests.c.o   -c /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_ad315
-/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ad315.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_ad315.dir/feature_tests.c.o  -o cmTC_ad315 
-gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_b0a3e/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_b0a3e.dir/build.make CMakeFiles/cmTC_b0a3e.dir/build
+gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b0a3e.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_b0a3e.dir/feature_tests.c.o   -c /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_b0a3e
+/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b0a3e.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_b0a3e.dir/feature_tests.c.o  -o cmTC_b0a3e 
+gmake[1]: Leaving directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -203,30 +203,30 @@ gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-bui
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_069ab/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_069ab.dir/build.make CMakeFiles/cmTC_069ab.dir/build
-gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_069ab.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTC_069ab.dir/testCXXCompiler.cxx.o -c /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_069ab
-/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_069ab.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_069ab.dir/testCXXCompiler.cxx.o  -o cmTC_069ab 
-gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_38903/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_38903.dir/build.make CMakeFiles/cmTC_38903.dir/build
+gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_38903.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_38903.dir/testCXXCompiler.cxx.o -c /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_38903
+/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_38903.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_38903.dir/testCXXCompiler.cxx.o  -o cmTC_38903 
+gmake[1]: Leaving directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_257d1/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_257d1.dir/build.make CMakeFiles/cmTC_257d1.dir/build
-gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_257d1.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTC_257d1.dir/CMakeCXXCompilerABI.cpp.o -c /home/heuby/Programs/Clion2018/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_257d1
-/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_257d1.dir/link.txt --verbose=1
-/usr/bin/c++      -v CMakeFiles/cmTC_257d1.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_257d1 
+Run Build Command:"/usr/bin/gmake" "cmTC_476af/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_476af.dir/build.make CMakeFiles/cmTC_476af.dir/build
+gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_476af.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_476af.dir/CMakeCXXCompilerABI.cpp.o -c /home/heuby/Programs/Clion2018/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_476af
+/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_476af.dir/link.txt --verbose=1
+/usr/bin/c++      -v CMakeFiles/cmTC_476af.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_476af 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper
@@ -235,27 +235,27 @@ OFFLOAD_TARGET_DEFAULT=1
 Target: x86_64-redhat-linux
 Configured with: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,objc,obj-c++,ada,go,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --enable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux
 Thread model: posix
-gcc version 8.2.1 20181105 (Red Hat 8.2.1-5) (GCC) 
+gcc version 8.3.1 20190223 (Red Hat 8.3.1-2) (GCC) 
 COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_257d1' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccv0wwUv.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_257d1 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_257d1.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_257d1' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_476af' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccRGKWVZ.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_476af /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_476af.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_476af' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+gmake[1]: Leaving directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_257d1/fast"]
-  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_257d1.dir/build.make CMakeFiles/cmTC_257d1.dir/build]
-  ignore line: [gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_257d1.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_257d1.dir/CMakeCXXCompilerABI.cpp.o -c /home/heuby/Programs/Clion2018/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_257d1]
-  ignore line: [/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_257d1.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_257d1.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_257d1 ]
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_476af/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_476af.dir/build.make CMakeFiles/cmTC_476af.dir/build]
+  ignore line: [gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_476af.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_476af.dir/CMakeCXXCompilerABI.cpp.o -c /home/heuby/Programs/Clion2018/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_476af]
+  ignore line: [/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_476af.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_476af.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_476af ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper]
@@ -264,16 +264,16 @@ Parsed CXX implicit link information from above output:
   ignore line: [Target: x86_64-redhat-linux]
   ignore line: [Configured with: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,objc,obj-c++,ada,go,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --enable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux]
   ignore line: [Thread model: posix]
-  ignore line: [gcc version 8.2.1 20181105 (Red Hat 8.2.1-5) (GCC) ]
+  ignore line: [gcc version 8.3.1 20190223 (Red Hat 8.3.1-2) (GCC) ]
   ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_257d1' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccv0wwUv.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_257d1 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_257d1.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_476af' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccRGKWVZ.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_476af /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_476af.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o]
     arg [/usr/libexec/gcc/x86_64-redhat-linux/8/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccv0wwUv.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccRGKWVZ.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -288,7 +288,7 @@ Parsed CXX implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_257d1] ==> ignore
+    arg [cmTC_476af] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o] ==> ignore
@@ -297,7 +297,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/usr/lib/gcc/x86_64-redhat-linux/8/../../..] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/8/../../..]
-    arg [CMakeFiles/cmTC_257d1.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_476af.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -320,17 +320,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++2a] compiler features compiled with the following output:
-Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_b8e85/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_b8e85.dir/build.make CMakeFiles/cmTC_b8e85.dir/build
-gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_b8e85.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++2a -o CMakeFiles/cmTC_b8e85.dir/feature_tests.cxx.o -c /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_b8e85
-/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b8e85.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_b8e85.dir/feature_tests.cxx.o  -o cmTC_b8e85 
-gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_7d613/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_7d613.dir/build.make CMakeFiles/cmTC_7d613.dir/build
+gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_7d613.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++2a -o CMakeFiles/cmTC_7d613.dir/feature_tests.cxx.o -c /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_7d613
+/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7d613.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_7d613.dir/feature_tests.cxx.o  -o cmTC_7d613 
+gmake[1]: Leaving directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -393,17 +393,17 @@ gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-bui
 
 
 Detecting CXX [-std=c++17] compiler features compiled with the following output:
-Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_62144/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_62144.dir/build.make CMakeFiles/cmTC_62144.dir/build
-gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_62144.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++17 -o CMakeFiles/cmTC_62144.dir/feature_tests.cxx.o -c /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_62144
-/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_62144.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_62144.dir/feature_tests.cxx.o  -o cmTC_62144 
-gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_ed42d/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_ed42d.dir/build.make CMakeFiles/cmTC_ed42d.dir/build
+gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ed42d.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++17 -o CMakeFiles/cmTC_ed42d.dir/feature_tests.cxx.o -c /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_ed42d
+/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ed42d.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_ed42d.dir/feature_tests.cxx.o  -o cmTC_ed42d 
+gmake[1]: Leaving directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -466,17 +466,17 @@ gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-bui
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_b5ddf/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_b5ddf.dir/build.make CMakeFiles/cmTC_b5ddf.dir/build
-gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_b5ddf.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_b5ddf.dir/feature_tests.cxx.o -c /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_b5ddf
-/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b5ddf.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_b5ddf.dir/feature_tests.cxx.o  -o cmTC_b5ddf 
-gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_18140/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_18140.dir/build.make CMakeFiles/cmTC_18140.dir/build
+gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_18140.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_18140.dir/feature_tests.cxx.o -c /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_18140
+/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_18140.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_18140.dir/feature_tests.cxx.o  -o cmTC_18140 
+gmake[1]: Leaving directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -539,17 +539,17 @@ gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-bui
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_d13e2/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_d13e2.dir/build.make CMakeFiles/cmTC_d13e2.dir/build
-gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_d13e2.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_d13e2.dir/feature_tests.cxx.o -c /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_d13e2
-/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d13e2.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_d13e2.dir/feature_tests.cxx.o  -o cmTC_d13e2 
-gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_4ed6b/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_4ed6b.dir/build.make CMakeFiles/cmTC_4ed6b.dir/build
+gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4ed6b.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_4ed6b.dir/feature_tests.cxx.o -c /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_4ed6b
+/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4ed6b.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_4ed6b.dir/feature_tests.cxx.o  -o cmTC_4ed6b 
+gmake[1]: Leaving directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -612,17 +612,17 @@ gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-bui
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_99e62/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_99e62.dir/build.make CMakeFiles/cmTC_99e62.dir/build
-gmake[1]: Entering directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_99e62.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_99e62.dir/feature_tests.cxx.o -c /home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_99e62
-/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_99e62.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_99e62.dir/feature_tests.cxx.o  -o cmTC_99e62 
-gmake[1]: Leaving directory '/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_2e173/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_2e173.dir/build.make CMakeFiles/cmTC_2e173.dir/build
+gmake[1]: Entering directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2e173.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_2e173.dir/feature_tests.cxx.o -c /home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_2e173
+/home/heuby/Programs/Clion2018/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2e173.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_2e173.dir/feature_tests.cxx.o  -o cmTC_2e173 
+gmake[1]: Leaving directory '/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

@@ -4,15 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/heuby/CLionProjects/ModernChallange/src/ch1/Problem1.cpp" "/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.o"
-  "/home/heuby/CLionProjects/ModernChallange/src/ch1/Problem2.cpp" "/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.o"
-  "/home/heuby/CLionProjects/ModernChallange/src/ch1/Problem3.cpp" "/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.o"
-  "/home/heuby/CLionProjects/ModernChallange/src/ch1/Problem4.cpp" "/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.o"
-  "/home/heuby/CLionProjects/ModernChallange/src/ch1/Problem5.cpp" "/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.o"
-  "/home/heuby/CLionProjects/ModernChallange/src/ch1/Problem6.cpp" "/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.o"
-  "/home/heuby/CLionProjects/ModernChallange/src/ch1/Problem7.cpp" "/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.o"
-  "/home/heuby/CLionProjects/ModernChallange/src/ch1/Problem8.cpp" "/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.o"
-  "/home/heuby/CLionProjects/ModernChallange/src/main.cpp" "/home/heuby/CLionProjects/ModernChallange/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/main.cpp.o"
+  "/home/heuby/Repos/ModernChallage/src/ch1/Problem1.cpp" "/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem1.cpp.o"
+  "/home/heuby/Repos/ModernChallage/src/ch1/Problem2.cpp" "/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem2.cpp.o"
+  "/home/heuby/Repos/ModernChallage/src/ch1/Problem3.cpp" "/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem3.cpp.o"
+  "/home/heuby/Repos/ModernChallage/src/ch1/Problem4.cpp" "/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem4.cpp.o"
+  "/home/heuby/Repos/ModernChallage/src/ch1/Problem5.cpp" "/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem5.cpp.o"
+  "/home/heuby/Repos/ModernChallage/src/ch1/Problem6.cpp" "/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem6.cpp.o"
+  "/home/heuby/Repos/ModernChallage/src/ch1/Problem7.cpp" "/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem7.cpp.o"
+  "/home/heuby/Repos/ModernChallage/src/ch1/Problem8.cpp" "/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/ch1/Problem8.cpp.o"
+  "/home/heuby/Repos/ModernChallage/src/main.cpp" "/home/heuby/Repos/ModernChallage/cmake-build-debug/CMakeFiles/ModernChallange.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
